@@ -1,0 +1,105 @@
+body{
+
+}
+.btn1{
+  margin-left: 160px;
+  padding-right: 126px;
+}
+.btn2{
+  margin-left: 160px;
+  padding-right: 119px;
+}
+.btn3{
+  margin-left: 160px;
+  padding-right: 108px;
+}
+.btn4{
+  margin-left: 160px;
+  padding-right: 88px;
+}
+.card{
+ position: absolute;
+ margin-top: 180px;
+ margin-left: 900px;
+}
+.img1{
+  position: absolute;
+  margin-top: 150px;
+  margin-left: 320px;
+  margin-bottom: 200px
+}
+.container1{
+  position: absolute;
+  margin-left: 180px;
+  margin-top: 490px;
+}
+.profile1{
+  position: absolute;
+  margin-left: 300px;
+  margin-top: 100px;
+}
+.btn-group-vertical{
+  position: absolute;
+  margin-left: 315px;
+  margin-top: 300px;
+}
+.container2{
+  margin-top:500px;
+}
+.card{
+  position: absolute;
+  margin-left: 850px;
+}
+.sidebar{
+
+}
+.progress{
+  margin-right: 850px;
+}
+.container3{
+  padding-bottom: 150px;
+}
+.allContainers{
+ margin-left: 120px;
+  margin-top: 50px;
+}
+.btn2{
+  padding-right: 133px;
+}
+.btn3{
+  padding-right: 117px;
+}
+.btn4{
+  padding-right: 122px;
+}
+.profile2{
+  position: absolute;
+  margin-top: 30px;
+  margin-left: 305px;
+}
+.container4{
+  margin-right: 280px;
+  padding-right: 10px;
+  margin-top: 250px;
+}
+img{
+  border-radius: 50%;
+}
+.container6{
+  position: absolute;
+  margin-left: 850px;
+  padding-top: 200px;
+}
+.container5{
+  position:absolute;
+  margin-right: 300px;
+}
+.lead1{
+  position: absolute;
+  margin-left: 145px;
+  color: white;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+.container7{
+margin-right: 188px;
+}
